@@ -3,8 +3,8 @@
   "versionCode": 200,
   "versionFormat": "§6%modpackName% §f- §a%versionName%",
   "updateLink": "https://example.com/mymodpack/download",
-  "welcomeMessage": "{\"text\":\"欢迎来到我们的整合包！\",\"color\":\"green\",\"bold\":true}",
-  "sponsorMessage": "{\"text\":\"特别感谢我们的赞助者！\",\"color\":\"gold\"}",
+  "welcomeMessage": "§e欢迎来到我们的整合包！",
+  "sponsorMessage": "§c特别感谢我们的赞助者！",
   
   "changelogs": {
     "2.0.0": [
